@@ -4,7 +4,6 @@ A modern **Health & Fitness web application** built with **Next.js**, React, and
 ## 🌐 Live Demo
 🔗 [Health App Live](https://health-bsmt8129b-shubhamgusain886-5745s-projects.vercel.app)
 
-## 🚀 Features
 
 ## ✨ Features
 
@@ -35,8 +34,6 @@ A modern **Health & Fitness web application** built with **Next.js**, React, and
 ### 🚀 Easy Deployment
 - Ready to deploy with minimal setup—just clone, install dependencies, add `.env.local`, and run.
 
-
-## 🧰 Setup Instructions
 
 ## 🧰 Setup Instructions
 
@@ -82,7 +79,7 @@ http://localhost:3000
   - Update `.env.local` with your own API keys and secrets.
   - Push to GitHub → deployment is handled automatically by **Vercel**.
   
-## 💬 Feedback
+
 
 ## 🤝 Contributing
 
